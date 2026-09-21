@@ -73,7 +73,7 @@ This project uses a **simulated/dummy dataset created for learning and portfolio
 
 * 💼 **LinkedIn:** [linkedin.com/in/analystaditya09](https://linkedin.com/in/analystaditya09)
 * 📁 **GitHub:** [github.com/analystaditya09](https://github.com/analystaditya09)
-* 📧 **Email:** [aditya.analyst09@gmail.com](mailto:aditya.analyst09@gmail.com)
+* 📧 **Email:** [adityavkm695@gmail.com](mailto:adityavkm695@gmail.com)
 
 ---
 *⭐ If you found this project insightful, feel free to star this repository!*
